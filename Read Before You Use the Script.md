@@ -4,7 +4,7 @@ don't credit yourself because it has an notification
 
 no skidding the script
 
-no Stealing the sound from explorer
+no Stealing the sound or the tool images from explorer
 
 —————————————— Version Time ———————————————
 
